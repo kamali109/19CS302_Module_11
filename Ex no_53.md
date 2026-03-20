@@ -3,13 +3,6 @@
 ## AIM:
 To write a C program to remove duplicates in an array.
 
-## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
-
 ## Program:
 ```
 /*

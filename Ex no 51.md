@@ -3,13 +3,6 @@
 ## AIM:
 To write a C program to reverse a string.
 
-## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
-
 ## Program:
 ```
 /*
